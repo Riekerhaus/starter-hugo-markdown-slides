@@ -89,6 +89,6 @@ categories: []
 
 fab
 
-**Icon (see https://wowchemy.com/docs/page-builder/#icons):** airbnb[](https://discord.gg/z8wNYzb)
+**Icon (see https://wowchemy.com/docs/page-builder/#icons):** airbnb
 
 [Documentation](https://wowchemy.com/docs/content/slides/)
