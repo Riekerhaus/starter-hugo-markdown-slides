@@ -142,7 +142,7 @@ Press the `S` key to view the speaker notes!
 
 - - -
 
-{{< slide background-image="boards.webp" >}}
+{{< slide background-image="IMG-20230410-WA0004.jpg" >}}
 
 ## Custom Slide
 
