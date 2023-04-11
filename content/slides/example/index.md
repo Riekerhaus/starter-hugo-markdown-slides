@@ -14,7 +14,7 @@ categories: []
 ---
 # Test
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/)
+{{< slide background-image="IMG-20230410-WA0004.jpg" >}}
 
 - - -
 
