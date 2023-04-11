@@ -8,7 +8,7 @@ slides:
 authors: []
 tags: []
 image:
-  filename: fischbachtal.jpg
+  filename: ""
 categories: []
 ---
 # Test
