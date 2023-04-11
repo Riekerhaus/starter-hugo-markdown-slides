@@ -6,8 +6,7 @@ slides:
   theme: black
   highlight_style: dracula
 authors: []
-tags:
-  - Tutorials
+tags: []
 image:
   filename: fischbachtal.jpg
 categories: []
@@ -20,8 +19,6 @@ categories: []
 
 ## Beschreibung der Ferienwohnung
 
-<!--StartFragment-->
-
 Die Ferienwohnung, die ich betrete, ist geräumig und lichtdurchflutet. Der Blick durch die Fenster bietet einen atemberaubenden Ausblick auf die Berge. Die Einrichtung ist modern und geschmackvoll, mit bequemen Sofas und Stühlen, die zum Entspannen einladen.
 
 In der Küche gibt es alles, was man zum Kochen braucht. Der Kühlschrank ist groß genug, um alle Lebensmittel für eine Woche aufzubewahren. Der Esstisch ist groß genug für alle Gäste und bietet eine tolle Atmosphäre für gemütliche Mahlzeiten.
@@ -31,8 +28,6 @@ Die Schlafzimmer sind mit bequemen Betten ausgestattet, die für einen erholsame
 Der Balkon ist groß genug, um sich dort zu sonnen oder einen gemütlichen Abend mit Freunden und Familie zu verbringen. Ein kleiner Tisch und Stühle stehen bereit, um dort Mahlzeiten zu genießen oder einfach nur zu entspannen und die Aussicht zu genießen.
 
 Insgesamt bietet die Ferienwohnung alles, was man für einen angenehmen Aufenthalt braucht. Sie ist sauber, modern und bietet einen atemberaubenden Ausblick auf die Berge. Ich freue mich darauf, hier ein paar Tage zu verbringen und die Umgebung zu erkunden.
-
-<!--EndFragment-->
 
 - - -
 
@@ -170,10 +165,16 @@ Create `assets/css/reveal_custom.css` with:
 }
 ```
 
+
+
 - - -
 
-# Questions?
+# Noch Fragen?
 
-[Ask](https://discord.gg/z8wNYzb)
+**Link:** https://www.airbnb.de/
+
+fab
+
+**Icon (see https://wowchemy.com/docs/page-builder/#icons):** airbnb[](https://discord.gg/z8wNYzb)
 
 [Documentation](https://wowchemy.com/docs/content/slides/)
