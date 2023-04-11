@@ -17,22 +17,6 @@ categories: []
 
 - - -
 
-## Beschreibung der Ferienwohnung
-
-Die Ferienwohnung, die ich betrete, ist geräumig und lichtdurchflutet. Der Blick durch die Fenster bietet einen atemberaubenden Ausblick auf die Berge. Die Einrichtung ist modern und geschmackvoll, mit bequemen Sofas und Stühlen, die zum Entspannen einladen.
-
-In der Küche gibt es alles, was man zum Kochen braucht. Der Kühlschrank ist groß genug, um alle L
-
-ebensmittel für eine Woche aufzubewahren. Der Esstisch ist groß genug für alle Gäste und bietet eine tolle Atmosphäre für gemütliche Mahlzeiten.
-
-Die Schlafzimmer sind mit bequemen Betten ausgestattet, die für einen erholsamen Schlaf sorgen. Die Fenster können mit Jalousien verdunkelt werden, um einen ruhigen und dunklen Schlaf zu ermöglichen. Die Badezimmer sind sauber und modern mit Dusche oder Badewanne.
-
-Der Balkon ist groß genug, um sich dort zu sonnen oder einen gemütlichen Abend mit Freunden und Familie zu verbringen. Ein kleiner Tisch und Stühle stehen bereit, um dort Mahlzeiten zu genießen oder einfach nur zu entspannen und die Aussicht zu genießen.
-
-Insgesamt bietet die Ferienwohnung alles, was man für einen angenehmen Aufenthalt braucht. Sie ist sauber, modern und bietet einen atemberaubenden Ausblick auf die Berge. Ich freue mich darauf, hier ein paar Tage zu verbringen und die Umgebung zu erkunden.
-
-- - -
-
 ## Eingangsbereich
 
 {{< slide background-image="IMG-20230410-WA0002.jpg" >}}
@@ -43,7 +27,11 @@ Insgesamt bietet die Ferienwohnung alles, was man für einen angenehmen Aufentha
 
 {{< slide background-image="IMG-20230410-WA0000.jpg" >}}
 
-![](img-20230410-wa0010.jpg)
+- - -
+
+## Küche
+
+{{< slide background-image="IMG-20230410-WA0010.jpg" >}}
 
 - - -
 
@@ -91,7 +79,7 @@ Insgesamt bietet die Ferienwohnung alles, was man für einen angenehmen Aufentha
 
 ## Anfahrt
 
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d922.0198478046766!2d8.936401168649317!3d49.5668232002711!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4797e43c6b7e9717%3A0x11c242cec2795cfc!2sSiefertsweg%206%2C%2064743%20Oberzent!5e1!3m2!1sde!2sde!4v1681208233717!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 - - -
 
