@@ -11,7 +11,7 @@ image:
   filename: ""
 categories: []
 ---
-# Test
+## Test
 
 {{< slide background-image="IMG-20230410-WA0004.jpg" >}}
 
@@ -77,10 +77,15 @@ Insgesamt bietet die Ferienwohnung alles, was man für einen angenehmen Aufentha
 
 - - -
 
-* night: Black background, thick white text, orange links
-* serif: Cappuccino background, gray text, brown links
-* simple: White background, black text, blue links
-* solarized: Cream-colored background, dark green text, blue links
+## A﻿ußenbereich
+
+{{< slide background-image="IMG-20230410-WA00010.jpg" >}}
+
+- - -
+
+## W﻿ohnzimmer / Esszimmer
+
+{{< slide background-image="IMG-20230410-WA0007.jpg" >}}
 
 - - -
 
